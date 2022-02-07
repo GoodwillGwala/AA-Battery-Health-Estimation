@@ -1,0 +1,22 @@
+* Z:\home\mint\Desktop\Design\Complete Designs\VoltageControlledCurrentSource.asc
+.subckt VoltageControlledCurrentSource In Load Shunt
+XU1 In Shunt Vcc 0 N002 LMx58_LM2904
+V1 Vcc 0 9
+M1 Load N002 Shunt Shunt IRF530
+D1 Shunt N001 D
+C1 N002 Shunt 0.1µ
+.model D D
+.lib C:\users\mint\My Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\users\mint\My Documents\LTspiceXVII\lib\cmp\standard.mos
+* .lib LMx58_LM2904.CIR
+* VCCS
+* .ac dec 10 1 1K
+.inc LMx58_LM2904_AI.CIR
+* NOTES:\nUse "opamp2" symbol.\nChange its Value from "opamp2" to either\n"LMx58_LM2904" or "LMx24_LM2902".\nAdd SPICE Directive with ".inc" and the same model's filename.
+.backanno
+.ends VoltageControlledCurrentSource
+.end
+
+
