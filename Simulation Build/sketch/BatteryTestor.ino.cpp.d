@@ -1,0 +1,23 @@
+/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp.o: \
+ /tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/binary.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/WString.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/Stream.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/Print.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/Printable.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/libraries/LiquidCrystal/src/LiquidCrystal.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino/Print.h \
+ /home/mint/Arduino/libraries/LCDMenuLib2/src/LCDMenuLib2.h \
+ /home/mint/Arduino/libraries/LCDMenuLib2/src/LCDMenuLib2_typedef.h \
+ /home/mint/Arduino/libraries/LCDMenuLib2/src/LCDMenuLib2_menu.h \
+ /home/mint/Arduino/libraries/LCDMenuLib2/src/LCDMenuLib2_macros.h \
+ /media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/libraries/EEPROM/src/EEPROM.h \
+ /home/mint/Arduino/libraries/Regression/LinearRegression.h \
+ /home/mint/Arduino/libraries/arduinoFFT/src/arduinoFFT.h \
+ /home/mint/Arduino/libraries/atmega-adc/atmega-adc.h

@@ -1,0 +1,92 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "/media/mint/84E0F6E7E0F6DE7C/arduino-nightly/libraries/LiquidCrystal/src"
+  },
+  {
+    "Sourcefile": "/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp",
+    "Include": "LCDMenuLib2.h",
+    "Includepath": "/home/mint/Arduino/libraries/LCDMenuLib2/src"
+  },
+  {
+    "Sourcefile": "/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "/media/mint/84E0F6E7E0F6DE7C/arduino-nightly/hardware/arduino/avr/libraries/EEPROM/src"
+  },
+  {
+    "Sourcefile": "/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp",
+    "Include": "LinearRegression.h",
+    "Includepath": "/home/mint/Arduino/libraries/Regression"
+  },
+  {
+    "Sourcefile": "/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp",
+    "Include": "arduinoFFT.h",
+    "Includepath": "/home/mint/Arduino/libraries/arduinoFFT/src"
+  },
+  {
+    "Sourcefile": "/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp",
+    "Include": "atmega-adc.h",
+    "Includepath": "/home/mint/Arduino/libraries/atmega-adc"
+  },
+  {
+    "Sourcefile": "/tmp/arduino_build_823802/sketch/BatteryTestor.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/media/mint/84E0F6E7E0F6DE7C/arduino-nightly/libraries/LiquidCrystal/src/LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/LCDMenuLib2/src/LCDMenuLib2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/LCDMenuLib2/src/LCDMenuLib2_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/Regression/ExponentialRegression.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/Regression/LinearRegression.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/Regression/LogarithmicRegression.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/Regression/PotentialRegression.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/arduinoFFT/src/arduinoFFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/mint/Arduino/libraries/atmega-adc/atmega-adc.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
